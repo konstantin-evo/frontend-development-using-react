@@ -1,0 +1,96 @@
+body {
+    background-color: #F8F4EE;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.border-bottom {
+    border-bottom: 1px solid gray;
+}
+
+h1 {
+    color: #444444;
+    font-family: 'Dosis', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.center div {
+    font-family: 'Dosis', sans-serif;;
+}
+
+.left {
+    display: inline-block;
+    text-align: left;
+}
+
+.article-header {
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    font-weight: 200;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.article-subheader {
+    font-family: 'Dosis', sans-serif;;
+}
+
+.article-subheader a {
+    color: #444444;
+    font-size: 38px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+
+.slogan {
+    background-color: #CC6566;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+h3.slogan  {
+    color: #F8F4EE;
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#author-logo {
+    border: 10px solid #444444;
+    border-radius: 10px;
+    padding: 20px;
+    width: 50px;
+    height: 25px;
+}
+
+#author-name {
+    font-family: 'Caveat', cursive;
+}
+
+#author-image {
+    margin: -27px;
+}
+
+#author-info {
+    color: #444444;
+    font-family: 'Bitter', serif;
+    font-weight: 300;
+    font-size: 30px;
+}
