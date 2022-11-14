@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(188, 75, 87);
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.column {
+  width: 100px;
+}
+
+.item {
+  margin: 0px 10px 10px 0px;
+  background-color: #3d1e37;
+}
